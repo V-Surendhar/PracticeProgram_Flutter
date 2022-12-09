@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633425282002",
+    "project_id": "timetracker-uptoauthclass",
+    "storage_bucket": "timetracker-uptoauthclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633425282002:android:bdbe8d4a618908363ffe0b",
+        "android_client_info": {
+          "package_name": "com.example.timetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633425282002-rq5n39v627rtvibpc25hc0atfrgksv0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timetracker",
+            "certificate_hash": "975c1b43793dd8c74ad28c9f5d070183797936c4"
+          }
+        },
+        {
+          "client_id": "633425282002-ic2bkmtq0clc8sg9f1ikjs8tk5jvg0hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAUuIqFhjeSbFnDIj6dbaFGUEZaBf-Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633425282002-ic2bkmtq0clc8sg9f1ikjs8tk5jvg0hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

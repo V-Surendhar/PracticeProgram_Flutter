@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1279271509310438</string>
+    <string name="fb_login_protocol_scheme">fb1279271509310438</string>
+    <string name="facebook_client_token">4286be2a14bc51a7ecb206c31f800a7b</string>
+    <string name="app_name">Time Tracker</string>
+</resources>
